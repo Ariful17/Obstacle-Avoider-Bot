@@ -1,4 +1,4 @@
-# Obstacle-Avoider-Bot
+# Obstacle-Avoiding-RoBot
 Components used- 
 - arduino mega
 - HS04 sonar sensor x3
